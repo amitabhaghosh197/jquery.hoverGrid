@@ -1,0 +1,27 @@
+For HGTML part:
+
+Insert the class "item" before the image. Then the "caption" class.
+
+e.g.
+
+<span class="item" ><img src=""/></span>
+
+<div or span class="">
+
+<h2>Lorem Ipsum</h2>
+
+<p>Lorem Ipsum</p>
+</div or span>
+
+for css
+
+For personal styling edit 
+
+.hover-grid .hover-grid-item
+width, height
+
+.hover-grid-item .caption
+
+width, height 
+
+For me I have set to width: auto and height: auto
